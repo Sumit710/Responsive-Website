@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-v5",
+  "version": "1.0.0",
+  "description": "learning bootstrap and sass",
+  "main": " ",
+  "scripts": {
+    "compile:sass":"sass --watch scss:assets/scss"
+  },
+  "keywords": [
+    "Bootstarp",
+    "bootstrp-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "Sumeet Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "autoprefixer": "^10.4.19",
+    "bootstrap": "^5.3.3",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0"
+  }
+}
